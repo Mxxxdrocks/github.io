@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&display=swap');
+
+.nasgor {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  display: flex;
+  height: 100vh;
+  background: url(bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  align-items: center;
+  box-sizing: border-box;
+  
+}
+.bumbu {
+  color: white;
+  justify-content: center;
+  align-items: center;
+  margin-left: 150px;
+}
+
+.awal {
+  
+  font-family: 'Lalezar', cursive;
+}
+
+
+.h1 {
+  color: white;
+}
+
+.h2 {
+  font-weight: 20px;
+  font-size: 15px;
+  display: flex;
+  margin: 50px;
+  font-family: 'Fugaz One', cursive;
+  opacity: 6px;
+  color: white;
+  border: 1px;
+  
+}
+
+html {
+  margin: 0;
+  padding: 0;
+
+}
+
+.container {
+}
+
+.navbar {
+  background-color: #333;
+  width: 100%;
+  height: 40px;
+}
+
+.ul-navbar {
+  height: 40px;
+ display: flex;
+ justify-content: right;
+ align-items: center;
+ text-decoration: none;
+ 
+}
+a {
+  color: white;
+  text-decoration: none;
+} 
+
+
+.li-navbar {
+  font-size: 10px;
+  list-style-type: none;
+  text-decoration: none;
+  padding: 10px;
+  margin: 10px;
+  color: white;
+ 
+}
